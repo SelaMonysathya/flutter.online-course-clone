@@ -3,9 +3,9 @@
 ![Mockup](https://user-images.githubusercontent.com/45874497/128364566-042ea6d5-c406-4bf8-bdb4-1853442e0b58.jpg)
 
 Today we gonna build Online Course app UI using Flutter. That has three parts such as:
-- [Part I: Root Page And On Boarding Page](https://bit.ly/33To3YS)
-- [Part II: Home Page And Search Page](https://bit.ly/2Rki3WA)
-- [Part III: Chat Page And Chat Detail Page](https://bit.ly/2Rki3WA)
+- [Part I: Root Page And On Boarding Page](https://bit.ly/2VV6mas)
+- [Part II: Home Page And Search Page](https://bit.ly/3jYb7Zg)
+- [Part III: Chat Page And Chat Detail Page](https://bit.ly/3CSKOfY)
 
 ## Package using:
 - [line_icons](https://bit.ly/3yfYcYy)
